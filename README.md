@@ -21,6 +21,9 @@ Welcome to my personal developer portfolio showcasing my projects, skills, and c
 ![Homepage](images/Homepage.png)
 
 ### 📂 Projects Section
+![Projects](images/internship.png)
+
+### 📂 Projects Section
 ![Projects](images/projects.png)
 
 ### 📂 About Section
