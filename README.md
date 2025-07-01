@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio showcasing my projects, skills, and c
 
 ## 🔗 Live Preview
 
-👉 [Click here to view the live site](https://digu45.github.io/My_Portfolio/)
+👉 [Click here to view my portfolio](https://digu45.github.io/My_Portfolio/)
 
 ## 🖥️ Technologies Used
 
@@ -12,12 +12,23 @@ Welcome to my personal developer portfolio showcasing my projects, skills, and c
 - CSS3
 - Bootstrap 4
 - JavaScript
-- PHP
-- MySQL
 
 ## 📸 Preview
 
-![Portfolio Screenshot](images/preview.png)
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](images/Homepage.png)
+
+### 📂 Projects Section
+![Projects](images/projects.png)
+
+### 📂 About Section
+![Projects](images/about.png)
+
+### 📞 Skills and Contact Section
+![Contact](images/skills.png)
+
 
 ## 📬 Contact
 
