@@ -27,7 +27,7 @@ Welcome to my personal developer portfolio showcasing my projects, skills, and c
 ![Projects](images/about.png)
 
 ### 📞 Skills and Contact Section
-![Contact](images/skills.png)
+![Contact](images/skils.png)
 
 
 ## 📬 Contact
